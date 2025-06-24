@@ -1,1 +1,2 @@
-requests
+```txt
+   # No external libraries used.
