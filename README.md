@@ -4,12 +4,6 @@ A **GUI-based Port Scanner App** developed in Python that scans open and closed 
 
 ---
 
-## 📸 Screenshot
-
-*(You can upload a screenshot or demo GIF here)*
-
----
-
 ## 🎯 Features
 
 ✅ Easy-to-use GUI with input fields  
